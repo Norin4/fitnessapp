@@ -49,4 +49,3 @@ document.addEventListener("DOMContentLoaded", function () {
         alert("Спасибо! Ваше сообщение отправлено.");
         contactForm.reset();
     });
-});
